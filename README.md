@@ -27,6 +27,7 @@ Common Services uses the following frameworks.
 > Waring: Be cautious when upgrading any frameworks.
 > Info: Instructions on how to use the frameworks are available in the documentation.
 
-| Package  | Version | Documentation                                                          |
-| -------- | ------- | ---------------------------------------------------------------------- |
-| Husky    |  6.0.0  | [https://typicode.github.io/husky/](https://typicode.github.io/husky/) |
+| Package    | Version | Documentation                                                          |
+| ---------- | ------- | ---------------------------------------------------------------------- |
+| commitlint | 12.0.1  | [https://commitlint.js.org/](https://commitlint.js.org/)               |
+| Husky      |  6.0.0  | [https://typicode.github.io/husky/](https://typicode.github.io/husky/) |
