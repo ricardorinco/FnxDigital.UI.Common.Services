@@ -19,3 +19,14 @@ Install the npm packages dependencies:
 ```sh
   npm install
 ```
+
+## Dependencies
+
+Common Services uses the following frameworks.
+
+> Waring: Be cautious when upgrading any frameworks.
+> Info: Instructions on how to use the frameworks are available in the documentation.
+
+| Package  | Version | Documentation                                                          |
+| -------- | ------- | ---------------------------------------------------------------------- |
+| Husky    |  6.0.0  | [https://typicode.github.io/husky/](https://typicode.github.io/husky/) |
