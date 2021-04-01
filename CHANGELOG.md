@@ -1,0 +1,23 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 0.1.0 (2021-04-01)
+
+
+### Features
+
+* **scaffolding:** implementação do commitlint ([02af5b1](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/02af5b1dde4c8154b1ef269779885a975481f1db)), closes [#2336](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2336)
+* **scaffolding:** implementação do compodoc ([f4301c3](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/f4301c3163087b2721581471f028b4bd1c3c8711)), closes [#2314](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2314)
+* **scaffolding:** implementação do gulp ([0ebe189](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/0ebe189cc6c4c27b77b05314720daced4e213e81)), closes [#2402](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2402)
+* **scaffolding:** implementação do husky ([8154b35](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/8154b357aa515cc4f2e5926bf1781d261934d851)), closes [#2336](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2336)
+* **scaffolding:** implementação do karma-coverage ([dc3b8e0](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/dc3b8e0af4f48b3dfe3ffffa8cf86700b07bc8dc)), closes [#2315](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2315)
+* **scaffolding:** implementação do sonar-scanner ([aadbd60](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/aadbd603347b091733da3bc53ecd7a7f337803e3)), closes [#2401](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2401)
+* **scaffolding:** implementação do standard-version ([9f7157a](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/9f7157a7d476a332377e494d22fcf4731a4d86c0)), closes [#2336](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2336)
+* **scaffolding:** implementação do version-replace ([39ffe5a](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/39ffe5ad92548147237c7b10bc3022d7973cf305)), closes [#2402](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2402)
+* **scaffolding:** scaffolding angular-cli ([943bf5d](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/943bf5d7502474dfb8ac34d7a2f11aac1551deee)), closes [#2312](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2312)
+
+
+### Bug Fixes
+
+* **scaffolding:** correção do readme ([72b5d58](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/72b5d5841a2aae5dad478aee618ef5bea19f95d0))

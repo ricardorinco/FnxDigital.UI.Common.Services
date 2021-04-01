@@ -1,7 +1,7 @@
 {
     "name": "fnxdigital-ui-common-services",
     "description": "FnxDigital - UI: Common Services",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "scripts": {
         "docs": "compodoc -p tsconfig.json --output dist/docs --serve --watch --open",
         "ng": "ng",
