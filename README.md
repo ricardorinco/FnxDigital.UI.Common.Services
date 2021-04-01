@@ -29,6 +29,7 @@ Common Services uses the following frameworks.
 
 | Package          | Version | Documentation                                                                                                            |
 | ---------------- | ------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Compodoc         |  1.1.11 | [https://compodoc.app/guides/getting-started.html](https://compodoc.app/guides/getting-started.html)                     |
 | commitlint       | 12.0.1  | [https://commitlint.js.org/](https://commitlint.js.org/)                                                                 |
-| Husky            |  6.0.0  | [https://typicode.github.io/husky/](https://typicode.github.io/husky/)                                                   |
+| husky            |  6.0.0  | [https://typicode.github.io/husky/](https://typicode.github.io/husky/)                                                   |
 | standard-version |  9.1.1  | [https://github.com/conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) |
