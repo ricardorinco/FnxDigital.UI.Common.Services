@@ -4,7 +4,11 @@
     "version": "0.0.0",
     "scripts": {
         "ng": "ng",
-        "prepare": "husky install"
+        "prepare": "husky install",
+        "release": "standard-version",
+        "release:minor": "standard-version --release-as minor",
+        "release:patch": "standard-version --release-as patch",
+        "release:major": "standard-version --release-as major"
     },
     "private": true,
     "dependencies": {
@@ -42,6 +46,7 @@
         "karma-sonarqube-unit-reporter": "0.0.23",
         "ng-packagr": "^11.0.0",
         "protractor": "~7.0.0",
+        "standard-version": "^9.1.1",
         "ts-node": "~8.3.0",
         "tslint": "~6.1.0",
         "typescript": "~4.1.5"
