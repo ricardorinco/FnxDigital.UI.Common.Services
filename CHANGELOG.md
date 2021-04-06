@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/compare/v0.1.0...v0.2.0) (2021-04-06)
+
+
+### Features
+
+* **fnx-crypto.service:** criação do serviço de criptografia ([b313a3f](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/b313a3f65b16cad482cf293d2cbbc8f4fb077f44)), closes [#2318](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2318)
+* **fnx-service:** criação do projeto fnx-services ([3bf5f9b](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/3bf5f9b5a77a8c675beb0e4a2bbd85c28124b3fb)), closes [#2313](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/issues/2313)
+
 ## 0.1.0 (2021-04-01)
 
 
