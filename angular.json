@@ -2,5 +2,46 @@
     "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
     "version": 1,
     "newProjectRoot": "projects",
-    "projects": {}
+    "projects": {
+        "fnx-services": {
+            "projectType": "library",
+            "root": "projects/fnx-services",
+            "sourceRoot": "projects/fnx-services/src",
+            "prefix": "lib",
+            "architect": {
+                "build": {
+                    "builder": "@angular-devkit/build-angular:ng-packagr",
+                    "options": {
+                        "tsConfig": "projects/fnx-services/tsconfig.lib.json",
+                        "project": "projects/fnx-services/ng-package.json"
+                    },
+                    "configurations": {
+                        "production": {
+                            "tsConfig": "projects/fnx-services/tsconfig.lib.prod.json"
+                        }
+                    }
+                },
+                "test": {
+                    "builder": "@angular-devkit/build-angular:karma",
+                    "options": {
+                        "main": "projects/fnx-services/src/test.ts",
+                        "tsConfig": "projects/fnx-services/tsconfig.spec.json",
+                        "karmaConfig": "projects/fnx-services/karma.conf.js",
+                        "codeCoverage": true
+                    }
+                },
+                "lint": {
+                    "builder": "@angular-devkit/build-angular:tslint",
+                    "options": {
+                        "tsConfig": [
+                            "projects/fnx-services/tsconfig.lib.json",
+                            "projects/fnx-services/tsconfig.spec.json"
+                        ],
+                        "exclude": ["**/node_modules/**"]
+                    }
+                }
+            }
+        }
+    },
+    "defaultProject": "fnx-services"
 }
