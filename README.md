@@ -1,6 +1,6 @@
-# FnxDigital - UI: Common Services
+# S7 - UI: Common Services
 
-This is the repository of the FnxDigital.UI.Common.Services library.
+This is the repository of the seven.ui.common.services library.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Setup / Installation
