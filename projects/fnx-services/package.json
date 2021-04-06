@@ -1,0 +1,14 @@
+{
+    "name": "@fnx-commons/services",
+    "description": "FnxDigital - UI: Common Services",
+    "version": "0.0.0-PLACEHOLDER",
+    "dependencies": {
+        "crypto-js": "^4.0.0",
+        "tslib": "^2.0.0"
+    },
+    "peerDependencies": {
+        "@angular/common": "^11.2.6",
+        "@angular/core": "^11.2.6",
+        "crypto-js": "^4.0.0"
+    }
+}
