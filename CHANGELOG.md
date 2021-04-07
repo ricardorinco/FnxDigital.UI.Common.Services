@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/compare/v0.2.0...v0.3.0) (2021-04-07)
+
+
+### Features
+
+* **fnx-session-storage:** criação do serviço de session storage ([574d928](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/574d9281f4c550b24c4f69bd035e42876ee8cff1)), closes [#2327](https://github.com/ricardorinco/seven.ui.common.services/issues/2327)
+
+
+### Bug Fixes
+
+* correção readme ([f69c095](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/f69c0953fc5150bdb3ee44bc0e24db564ab7f5e1))
+
 ## [0.2.0](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/compare/v0.1.0...v0.2.0) (2021-04-06)
 
 
