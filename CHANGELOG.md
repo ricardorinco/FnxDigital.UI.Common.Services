@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/compare/v0.3.0...v0.4.0) (2021-04-08)
+
+
+### Features
+
+* **fnx-media-device-error-handler:** cria serviço de erro media device ([2debbfd](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/2debbfd513d3c4a5897bd88f3371ebe15587dfda)), closes [#2329](https://github.com/ricardorinco/seven.ui.common.services/issues/2329)
+
+
+### Bug Fixes
+
+* **fnx-session-storage:** incluído serviço session storage api public ([eccd69d](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/commits/eccd69ddb9bff65b2d400e6ca3c6a23e5e47a100))
+
 ## [0.3.0](https://github.com/ricardorinco/FnxDigital.UI.Common.Services/compare/v0.2.0...v0.3.0) (2021-04-07)
 
 
