@@ -20,6 +20,31 @@ Install the npm packages dependencies:
   npm install
 ```
 
+## Commands for Test and Build Application
+
+Commands list
+
+```sh
+  // Tests
+  $ npm run test // With Watch
+  $ npm run test:prod  // With Reports
+
+  // Documentation
+  $ npm run docs
+
+  // Code Quality
+  $ npm run sonar // Sonar must be started
+
+  // Versioning
+  $ npm run release:minor // Ex.: X.2.X
+  $ release:patch // Ex.: X.X.8
+  $ release:major // Ex.: 1.X.X
+
+  // Build
+  $ ng build
+  $ npm run build:prod // Release pack
+```
+
 ## Dependencies
 
 Common Services uses the following frameworks.
