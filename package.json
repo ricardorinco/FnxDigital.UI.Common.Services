@@ -5,7 +5,7 @@
     "scripts": {
         "build": "ng build fnx-services",
         "build:prod": "ng build fnx-services --prod  && gulp replaceVersion && cd dist/fnx-services && npm pack",
-        "docs": "compodoc -p tsconfig.json --output dist/docs --serve --watch --open",
+        "docs": "compodoc -p tsconfig.json --output dist/docs --includes projects/fnx-services --serve --watch --open",
         "ng": "ng",
         "prepare": "husky install",
         "release": "standard-version",
