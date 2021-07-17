@@ -36,9 +36,12 @@ Commands list
   $ npm run sonar // Sonar must be started
 
   // Versioning
-  $ npm run release:minor // Ex.: X.2.X
-  $ release:patch // Ex.: X.X.8
-  $ release:major // Ex.: 1.X.X
+  // Patch: v0.1.8
+  $ npm run release:patch
+  // Minor: v0.2.0
+  $ npm run release:minor
+  // Major: v1.0.0
+  $ npm run release:major
 
   // Build
   $ ng build
